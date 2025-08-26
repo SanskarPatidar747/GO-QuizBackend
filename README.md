@@ -16,7 +16,7 @@ This **README** file contains :
 About The Quiz Portal
 -------------
 
-This a backend written in GoLang using **Gin** as microframework **Gorm** as ORM and **sqlite3** as database.
+This a backend written in GoLang using **Gin** as microframework **Gorm** as ORM and **modernc.org/sqlite** as database.
 
 This server is caters to restful apis of a quiz app whose frontend is totally decoupled with it.
 
