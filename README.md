@@ -29,9 +29,7 @@ List of apis and a breif description about those are written in API section of R
 
 - Install GoLang in your machine.
 - Inside GoLang src folder clone this repo
-         git clone https://github.com/PK1210/Go-Quiz-Backend-Server
 - Go inside the folder
-         cd Go-Quiz-Backend-Server
 - Running the program is easy
          go run
 - This starts a go-server at **localhost:8080**
@@ -40,10 +38,6 @@ List of apis and a breif description about those are written in API section of R
          touch gorm.db
 
    This starts a backend server for quiz app on localhost:8080 which can cater to any service making a api request to it.
-
-    For a sample frontend for this quiz-portal click [here](https://github.com/PK1210/React-Quiz-App-Frontend)
-----------
-
 _______________
 
 #### Prajwal Krishna Maitin
