@@ -1,7 +1,7 @@
 # Go-Quiz-Portal-Backend
 
 *Coded by:*
-**Prajwal Krishna**
+**Sanskar Patidar**
 
 This **README** file contains :
  1. Information About the Quiz-App
@@ -45,4 +45,4 @@ ng commands before go run
 ater to any service making a api request to it.
 _______________
 
-#### Prajwal Krishna Maitin
+#### Sanskar Patidar
